@@ -1,4 +1,4 @@
-# azure-demo
+# Azure-demo
 
 
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
