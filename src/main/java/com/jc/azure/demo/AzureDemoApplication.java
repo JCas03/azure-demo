@@ -11,7 +11,7 @@ public class AzureDemoApplication {
 
     @RequestMapping("/message")
     public String message(){
-        return "Hello world";
+        return "Hi Bella I Love you";
     }
 
     public static void main(String[] args) {
